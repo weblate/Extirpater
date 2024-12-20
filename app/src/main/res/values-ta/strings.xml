@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="lblStart">தொடங்கு</string>
+    <string name="lblStop">நிறுத்து</string>
+    <string name="lblFullCredits">வரவு</string>
+    <string name="lblStoragePrimary">முதன்மை சேமிப்பு</string>
+    <string name="lblStorageSecondary">இரண்டாம் நிலை சேமிப்பு</string>
+    <string name="lblInfo">தகவல்</string>
+    <string name="lblErasing">அழித்தல்</string>
+    <string name="lblStatus">நிலை</string>
+    <string name="lblAbout">பற்றி</string>
+    <string name="lblZeroes">பூச்சியங்கள்</string>
+    <string name="lblData">வெளியீட்டு தரவு</string>
+    <string name="lblIdle">நிலையிக்கம்</string>
+    <string name="lblFillFileTable">கோப்பு அட்டவணையை நிரப்பவும்</string>
+</resources>
